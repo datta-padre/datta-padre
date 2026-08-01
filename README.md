@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **1.5+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
 
 - 🔭 Currently working on **A2z It Hub**,  **Software engineering**
 - 🌱 Always learning about **emerging technologies** and **best practices**
