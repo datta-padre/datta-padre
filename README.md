@@ -87,9 +87,9 @@ I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Develo
 <div align="center">
   
 [![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
-[![Email](https://img.shields.io/badge/Email-dattapadre357@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/datta-padre-b6086b31a/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its__datta_64072/)
+[![Email](https://img.shields.io/badge/Email-dattapadre357@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattapadre357@gmail.com)
 
 </div>
 
