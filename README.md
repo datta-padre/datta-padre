@@ -1,22 +1,22 @@
 <div align="center">
   
-# Hello Dosto 👋
+# 👨‍💻 Datta Padre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+%26+Platform+Engineering;1.5%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Platform+Engineer;1.5%2B+Years+Experience;Cloud+Architecture+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **1.5+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+I'm a **Developer Advocate** and **Educator @dattapadre** from India, specializing in **Development**, **DevOps**, and **Platform Engineering**. With over **1.5 years** of professional experience across onsite and remote environments, I focus on building **production-ready applications** and **scalable cloud infrastructure**.
 
-- 🔭 Currently working on **A2z It Hub**,  **Software engineering**
-- 🌱 Always learning about **emerging technologies** and **best practices**
-- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
-- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
-- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+- 🔭 Currently working on **A2z It Hub** & **Software Engineering**
+- 🌱 Continuously exploring **emerging technologies** and **industry best practices**
+- 🤝 Open to collaborating on **open-source** and **DevOps projects**
+- 💬 Ask me about **Python, Cloud Architecture, DevOps**, and **Platform Engineering**
+- 🧠 Passionate about **knowledge sharing**, **training**, and **mentoring**
 
 ---
 
@@ -29,9 +29,9 @@ I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Develo
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 </p>
 
 ### **Cloud & DevOps**
@@ -58,41 +58,43 @@ I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Develo
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datta-padre&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattapadre&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=datta-padre&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dattapadre&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datta-padre&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=datta-padre&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=datta-padre&theme=github-dark&hide_border=true" alt="GitHub Streak" width="450"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🏆 GitHub Achievements
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datta-padre&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-profile-trophy.vercel.app/?username=datta-padre&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=datta-padre&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/datta-padre-b6086b31a/)
+[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-1E293B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/datta-padre-b6086b31a/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its__datta_64072/)
-[![Email](https://img.shields.io/badge/Email-dattapadre357@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattapadre357@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dattapadre357@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dattapadre357@gmail.com)
 
 </div>
 
@@ -100,9 +102,9 @@ I'm a **Developer Advocate** & **Educator @dattapadre** specializing in **Develo
 
 <div align="center">
   
-### 💡 "Building the future, one deployment at a time" 
+### 🚀 *"Building scalable solutions, one deployment at a time."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=datta-padre&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/datta-padre?label=Follow&style=social)](https://github.com/datta-padre)
+[![Profile Views](https://komarev.com/ghpvc/?username=datta-padre&color=2563EB&style=flat-square)](https://github.com/datta-padre)
+[![GitHub Followers](https://img.shields.io/github/followers/datta-padre?label=Follow&style=social)](https://github.com/datta-padre)
 
 </div>
