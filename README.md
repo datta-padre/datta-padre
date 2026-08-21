@@ -1,12 +1,7 @@
 <div align="center">
   
-# 👨‍💻 Datta Padre
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DevOps+%26+Platform+Engineer;1.5%2B+Years+Experience;Cloud+Architecture+Enthusiast)](https://git.io/typing-svg)
-
-</div>
-
----<div align="center">
+<div align="center">
   
 # Hello Dosto 👋
 
